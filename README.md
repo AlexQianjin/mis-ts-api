@@ -1,2 +1,2 @@
-# mis-ts
-typescript react graphql
+# mis-ts-api
+node typescript graphql
